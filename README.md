@@ -31,7 +31,7 @@ This project is used by the following companies:
 First Clone The Repo Using 
 
 ```bash
-    git clone https://github.com/Pratik-Jagadale/TheShowMan.git
+    git clone https://github.com/Pratik-Jagadale/TSM-GameEngine-Template.git
 ```
 
 ## Generate Project Files
