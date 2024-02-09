@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TheShowMan
+/Bin/Debug/x64
+/Bin-Int/Debug/x64
+/.vs/TSM
+/Bin
+/Bin-Int

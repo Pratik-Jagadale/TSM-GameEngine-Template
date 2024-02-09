@@ -1,0 +1,3 @@
+[submodule "TheShowMan/External/SpdLog"]
+	path = TheShowMan/External/SpdLog
+	url = https://github.com/gabime/spdlog.git
