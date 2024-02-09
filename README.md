@@ -4,7 +4,7 @@
 
 
 
-![Logo](https://github.com/Pratik-Jagadale/TheShowMan/blob/main/Assets/Logo/Logo.png)
+![Logo](https://github.com/Pratik-Jagadale/TSM-GameEngine-Template/blob/main/Assets/Logo/Logo.png)
 
 
 ## Used By
